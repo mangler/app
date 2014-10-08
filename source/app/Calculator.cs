@@ -2,9 +2,9 @@
 {
   public class Calculator
   {
-    public static int add(int first, int second)
+    public int add(int first, int second)
     {
-        return first + second;
+      return first + second;
     }
   }
 }
